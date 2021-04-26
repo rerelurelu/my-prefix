@@ -12,7 +12,7 @@
 
 - 🚨 test: Add or modify test code
 
-- 🥱 style: Changes that do not affect the meaning of the code (ex. whitespace, formatting, semicolons)
+- 🥱 style: Changes that do not affect the meaning of the code 1(ex. whitespace, formatting, semicolons)
 
 - 📚 docs: Document changes
 
