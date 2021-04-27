@@ -1,5 +1,7 @@
 # My commit message prefix
 
+- 🎉 init: Initial commit
+
 - ✨ feat: New feature
 
 - 🐛 fix: Bug fixes
